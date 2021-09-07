@@ -1,5 +1,4 @@
-# eai-patterns-learnings
-Enterprise architecture integration patterns and tools
+# Enterprise architecture integration patterns and tools
 
 
 ## Tools
